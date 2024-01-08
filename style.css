@@ -1,0 +1,19 @@
+#camera, #result{
+    border: black dashed;
+    height: 200px;
+    width: 200px;
+}
+.Heading{
+    padding: 10px;
+    border:  rgb(160, 85, 204)solid;
+    border-radius: 30px;
+    height: 60px;
+    width: 550;
+}
+.List{
+    padding: 10px;
+    border:  rgb(160, 85, 204)solid;
+    border-radius: 30px;
+    height: 50px;
+    width: 200; 
+}
